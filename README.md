@@ -353,4 +353,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [@desarrolladorhoy](https://discord.gg/f8r3J9rH)
+🔥 🚀 ⭐ I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to 
+
+[@desarrolladorhoy](https://discord.gg/f8r3J9rH) ⭐ 🚀 🔥
